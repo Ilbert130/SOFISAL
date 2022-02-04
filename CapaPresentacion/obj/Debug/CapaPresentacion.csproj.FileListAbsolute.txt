@@ -1,0 +1,264 @@
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Categoria.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Presentacion.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Articulo.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCategoria_Articulo.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Proveedor.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Trabajador.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Ingreso.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaArticulo_Ingreso.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProveedor_Ingreso.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Venta.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaArticulo_Venta.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCliente_Venta.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteFactura.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteArticulos.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.Consulta_Stock_Articulos.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Articulo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Categoria.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.Consulta_Stock_Articulos.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Ingreso.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Presentacion.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Proveedor.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Trabajador.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Venta.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaArticulo_Ingreso.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaArticulo_Venta.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCategoria_Articulo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCliente_Venta.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProveedor_Ingreso.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteComprobanteFactura.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteArticulo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteCategoria.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReportePresentacion.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteIngreso.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteProveedor.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteVentas.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteClientes.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteTrabajadores.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteStock.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.InfoAPP.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.PruebaArticulo.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Articulo.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Categoria.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.Consulta_Stock_Articulos.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.InfoAPP.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Ingreso.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Presentacion.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Proveedor.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteArticulo.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteCategoria.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteClientes.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteComprobanteFactura.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReportePresentacion.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteProveedor.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteStock.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteTrabajadores.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Trabajador.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Venta.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaArticulo_Ingreso.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaArticulo_Venta.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCategoria_Articulo.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCliente_Venta.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProveedor_Ingreso.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.ConsultaCompras.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.ConsultaVentas.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteVenta.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteIngreso.resources
+C:\Users\Admin\Music\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Articulo.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Categoria.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.ConsultaCompras.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.ConsultaVentas.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.Consulta_Stock_Articulos.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.InfoAPP.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Ingreso.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Presentacion.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Proveedor.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteArticulo.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteCategoria.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteClientes.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteIngreso.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReportePresentacion.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteProveedor.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteStock.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteTrabajadores.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteVenta.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Trabajador.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Venta.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaArticulo_Ingreso.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaArticulo_Venta.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCategoria_Articulo.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCliente_Venta.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProveedor_Ingreso.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\EnvDTE80.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.dll.config
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\Colorful.Console.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteVenta1.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Colorful.Console.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\EnvDTE80.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.dll.config
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Articulo.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Categoria.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.ConsultaCompras.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.ConsultaVentas.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.Consulta_Stock_Articulos.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.InfoAPP.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Ingreso.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Presentacion.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Proveedor.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteArticulo.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteCategoria.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteClientes.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteIngreso.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReportePresentacion.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteProveedor.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteStock.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteTrabajadores.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteVenta.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteVenta1.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Trabajador.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Venta.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaArticulo_Ingreso.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaArticulo_Venta.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCategoria_Articulo.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCliente_Venta.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProveedor_Ingreso.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFacturaNFC.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.FacturaNCF.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.rptCotizacion_Factura.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.rptCotizacion_FacturaNCF.resources

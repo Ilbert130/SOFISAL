@@ -1,0 +1,160 @@
+c:\users\ilber\onedrive\documentos\visual studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe.config
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.pdb
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\CapaPresentacion.dll
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.dll
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.dll
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\CapaPresentacion.pdb
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.pdb
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.pdb
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csprojResolveAssemblyReference.cache
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.Properties.Resources.resources
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.GenerateResource.Cache
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.exe
+C:\Users\ilber\OneDrive\Documentos\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\CapaPresentacion.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\CapaPresentacion.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.application
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.application
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe.config
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.exe
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.pdb
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe.manifest
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.application
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.pdb
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\bin\Debug\CapaPresentacion.dll
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.dll
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.dll
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\bin\Debug\CapaPresentacion.pdb
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.pdb
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.pdb
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.Properties.Resources.resources
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.GenerateResource.Cache
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.exe.manifest
+C:\Users\Admin\Music\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.application
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csprojAssemblyReference.cache
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.Properties.Resources.resources
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.GenerateResource.cache
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.exe
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.pdb
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe.config
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe.manifest
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.application
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.pdb
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\CapaPresentacion.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\EnvDTE.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\EnvDTE80.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\stdole.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\CapaPresentacion.pdb
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.pdb
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.dll.config
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.pdb
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.dll.config
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.CoreCompileInputs.cache
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.exe.manifest
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.application
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.CopyComplete
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\SOFISAL1.exe.config
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\SOFISAL1.exe.manifest
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\SOFISAL1.application
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\SOFISAL1.exe
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\SOFISAL1.pdb
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SOFISAL1.exe.config
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SOFISAL1.exe.manifest
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SOFISAL1.application
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SOFISAL1.exe
+C:\Users\Ilbert Castillo\Desktop\SOFISAL1\CapaPresentacion\bin\Debug\SOFISAL1.pdb
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe.config
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe.manifest
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.application
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.exe
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\SOFISAL1.pdb
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaPresentacion.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\EnvDTE.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\EnvDTE80.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\stdole.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaPresentacion.pdb
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.pdb
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.dll.config
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.pdb
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.dll.config
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csprojAssemblyReference.cache
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.Properties.Resources.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.GenerateResource.cache
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.CoreCompileInputs.cache
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.exe.manifest
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.application
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.CopyComplete
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.exe
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.pdb
