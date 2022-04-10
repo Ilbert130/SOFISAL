@@ -129,7 +129,7 @@ namespace CapaDatos
 
                 SqlParameter ParIdcategoria = new SqlParameter();
                 ParIdcategoria.ParameterName = "@IdCategoria";
-                ParIdcategoria.SqlDbType = SqlDbType.Int;
+                ParIdcategoria.SqlDbType = SqlDbType.int;
                 ParIdcategoria.Value = Categoria.IdCategoria;
                 cmd.Parameters.Add(ParIdcategoria);
 

@@ -82,10 +82,10 @@ C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaNegocio\bin\Debug\Mi
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaNegocio\bin\Debug\Microsoft.MSXML.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaNegocio\bin\Debug\CapaDatos.pdb
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaNegocio\bin\Debug\CapaDatos.dll.config
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaNegocio\obj\Debug\CapaNegocio.Properties.Resources.resources
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaNegocio\obj\Debug\CapaNegocio.csproj.GenerateResource.cache
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache

@@ -218,7 +218,6 @@ C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Deb
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.dll.config
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.pdb
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.dll.config
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Articulo.resources
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Categoria.resources
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
@@ -252,8 +251,6 @@ C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Deb
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaCliente_Venta.resources
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProveedor_Ingreso.resources
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\RdlCompile.cache
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\RdlCompile.compiled
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.dll
@@ -262,3 +259,4 @@ C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Deb
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.FacturaNCF.resources
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.rptCotizacion_Factura.resources
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.rptCotizacion_FacturaNCF.resources
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache

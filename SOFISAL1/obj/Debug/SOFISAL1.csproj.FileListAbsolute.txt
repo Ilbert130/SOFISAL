@@ -149,7 +149,6 @@ C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaN
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaNegocio.dll.config
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.pdb
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\CapaDatos.dll.config
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csprojAssemblyReference.cache
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.Properties.Resources.resources
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.GenerateResource.cache
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.CoreCompileInputs.cache
@@ -158,3 +157,5 @@ C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFIS
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.CopyComplete
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.exe
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.pdb
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.AssemblyReference.cache
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.SuggestedBindingRedirects.cache
