@@ -259,4 +259,6 @@ C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Deb
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.MSXML.dll
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\EnvDTE.xml
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\EnvDTE80.xml
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache

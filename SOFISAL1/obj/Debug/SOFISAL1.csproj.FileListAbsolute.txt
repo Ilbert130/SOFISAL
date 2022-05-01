@@ -157,4 +157,7 @@ C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Micro
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\Microsoft.MSXML.dll
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csprojAssemblyReference.cache
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\EnvDTE.xml
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\bin\Debug\EnvDTE80.xml
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.AssemblyReference.cache
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\SOFISAL1\obj\Debug\SOFISAL1.csproj.SuggestedBindingRedirects.cache
