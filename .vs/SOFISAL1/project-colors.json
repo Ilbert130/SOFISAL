@@ -15,7 +15,12 @@
       "ProjectGuid": "7c291fe9-4bb7-47f8-b346-65fde12660c0",
       "DisplayName": "CapaPresentacion",
       "ColorIndex": 2
+    },
+    "2e06d3b3-221f-4e8a-ab54-d582a1b3f352": {
+      "ProjectGuid": "2e06d3b3-221f-4e8a-ab54-d582a1b3f352",
+      "DisplayName": "SOFISAL1",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

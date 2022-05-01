@@ -12,7 +12,7 @@ namespace CapaPresentacion.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.8.1.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.1.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -26,8 +26,8 @@ namespace CapaPresentacion.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=SQL5105.site4now.net;Initial Catalog=db_a8245c_sofisal;User Id=db_a82" +
-            "45c_sofisal_admin;Password=20f24157")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source = SQL5063.site4now.net; Initial Catalog = db_a85623_sofisal; User Id " +
+            "= db_a85623_sofisal_admin; Password=Castillo4321*")]
         public string dbSOFISALConnectionString2 {
             get {
                 return ((string)(this["dbSOFISALConnectionString2"]));
@@ -37,8 +37,8 @@ namespace CapaPresentacion.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=SQL5105.site4now.net;Persist Security Info=True;User ID=db_a8245c_sof" +
-            "isal_admin;Password=20f24157")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source = SQL5063.site4now.net; Initial Catalog = db_a85623_sofisal; User Id " +
+            "= db_a85623_sofisal_admin; Password=Castillo4321*")]
         public string ConnectionString {
             get {
                 return ((string)(this["ConnectionString"]));

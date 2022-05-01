@@ -538,7 +538,8 @@ namespace CapaPresentacion
                             this.MensajeError("Ya se encuentra el articulo en el detalle");
                         }
                     }
-                    if (registrar && Convert.ToInt32(txt_cantidad.Text) <= Convert.ToInt32(txt_stockFinal.Text))
+                    if (registrar && Convert.ToInt32(txt_cantidad.Text) <= Convert.ToInt32(txt_stockFinal.Text) &&
+                        Convert.ToDecimal(txt_precioVenta.Text) - Convert.ToDecimal(txt_precioCompra.Text) >= Convert.ToDecimal(txt_descuento.Text))
                     {
                         decimal subtotal = Convert.ToDecimal((this.txt_cantidad.Text)) * Convert.ToDecimal(this.txt_precioVenta.Text) - Convert.ToDecimal(this.txt_descuento.Text);
                         decimal ganancias = Convert.ToDecimal(((Convert.ToDecimal(txt_precioVenta.Text) - Convert.ToDecimal(txt_precioCompra.Text)) * Convert.ToDecimal(txt_cantidad.Text)) - Convert.ToDecimal(txt_descuento.Text));
@@ -550,7 +551,8 @@ namespace CapaPresentacion
                         }
                         else
                         {
-                            totalPagado2 = totalPagado;
+                            //totalPagado2 = totalPagado;
+                            totalPagado2 += subtotal;
                         }
 
                         totalGanado = totalGanado + ganancias;
@@ -570,7 +572,7 @@ namespace CapaPresentacion
                     }
                     else
                     {
-                        MensajeError("No hay Stock Suficiente");
+                        MensajeError("No hay Stock Suficiente o el descuento a realizar es mayor que el precio de compra");
                     }
                     this.BorrarMensajeErrorDetalle();
                 }

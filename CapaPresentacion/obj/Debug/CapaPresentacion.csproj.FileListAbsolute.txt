@@ -195,7 +195,6 @@ C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Deb
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.dll
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Colorful.Console.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.DLL
@@ -206,14 +205,8 @@ C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Deb
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\EnvDTE.dll
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\EnvDTE80.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\stdole.dll
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.MSXML.dll
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaNegocio.dll.config
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\CapaDatos.pdb
@@ -259,4 +252,11 @@ C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Deb
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.FacturaNCF.resources
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.rptCotizacion_Factura.resources
 C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.rptCotizacion_FacturaNCF.resources
-C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Colorful.Console.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ilbert Castillo\Documents\Cosas de C#\SOFISAL1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
